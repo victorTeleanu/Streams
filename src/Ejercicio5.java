@@ -20,5 +20,4 @@ public class Ejercicio5 {
                 .forEach(System.out::println);
 
     }
-
 }
